@@ -20,7 +20,7 @@ While I acknowledge there's always more to learn, I'm excited to apply my skills
 
 ```mermaid
 graph LR
-A[Frontend] --> B(React · Redux · JavaScript ES6+)
+A[Frontend] --> B(React · Zod · JavaScript ES6+)
 A --> C(HTML5 · CSS3 · Responsive Design)
 D[Backend] --> E(Node.js · Express)
 D --> F(RESTful APIs · MongoDB)
