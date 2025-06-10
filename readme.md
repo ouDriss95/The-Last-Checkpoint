@@ -1,6 +1,5 @@
 # Career Transition Readiness & Bootcamp Reflections
 
-````markdown
 <h1 align="center">Hi 👋 I'm Driss</h1>
 <h3 align="center">MERN Stack Developer | E-commerce Enthusiast</h3>
 
@@ -27,4 +26,7 @@ D[Backend] --> E(Node.js · Express)
 D --> F(RESTful APIs · MongoDB)
 G[DevOps] --> H(Git · GitHub · CI/CD)
 ```
-````
+
+```
+
+```
