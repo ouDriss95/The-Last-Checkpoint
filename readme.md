@@ -1,5 +1,9 @@
 # Career Transition Readiness & Bootcamp Reflections
 
+````markdown
+<h1 align="center">Hi 👋 I'm Driss</h1>
+<h3 align="center">MERN Stack Developer | E-commerce Enthusiast</h3>
+
 ## Readiness for Next Career Step
 
 I feel **highly prepared** to take the next step in my career journey. The bootcamp has equipped me with both technical skills and the mindset needed to transition into a professional tech role. My confidence comes from:
@@ -23,3 +27,4 @@ D[Backend] --> E(Node.js · Express)
 D --> F(RESTful APIs · MongoDB)
 G[DevOps] --> H(Git · GitHub · CI/CD)
 ```
+````
